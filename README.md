@@ -11,11 +11,6 @@ Organizadores:
 
 Número de participantes: **40 pessoas**
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-🔹  – Impacto Real da IA nos Projetos de Dados
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 ---
 
 Apresentações que aconteceram durante o evento:
