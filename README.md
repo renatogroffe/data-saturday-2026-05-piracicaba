@@ -65,8 +65,6 @@ Deixamos aqui nossos agradecimentos ao [**Parque Tecnológico Piracicaba**](http
 
 ![Banner Global Azure](img/banner-data-saturday-piracicaba.png)
 
-![Abertura](img/geral-03.jpeg)
-
 
 renato milton 1
 
@@ -91,3 +89,9 @@ felipe 9
 cantu 7
 
 cantu 17
+
+![Abertura 1](img/geral-03.jpeg)
+
+![Abertura 2](img/geral-07.jpeg)
+
+![Encerramento](img/geral-14.jpeg)
