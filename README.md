@@ -69,15 +69,17 @@ Deixamos aqui nossos agradecimentos ao [**Parque Tecnológico Piracicaba**](http
 
 ![Renato e Milton palestrando 2](img/renato-milton-13.jpeg)
 
+![Carlos e Marcio palestrando 1](img/carlos-marcio-02.jpeg)
+
+![Carlos e Marcio palestrando 2](img/carlos-marcio-09.jpeg)
+
+![Cantu palestrando 1](img/roberto-01.jpeg)
+
+![Cantu palestrando 2](img/roberto-08.jpeg)
 
 
-machel nizzola 2
 
-machel nizzola 9
 
-roberto 1
-
-roberto 8
 
 hugo 3
 
@@ -87,9 +89,12 @@ felipe 1
 
 felipe 9
 
-cantu 7
 
-cantu 17
+
+
+![Cantu palestrando 1](img/cantu-07.jpeg)
+
+![Cantu palestrando 2](img/cantu-17.jpeg)
 
 ![Abertura 1](img/geral-03.jpeg)
 
