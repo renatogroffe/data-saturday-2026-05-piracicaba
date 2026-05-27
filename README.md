@@ -14,13 +14,6 @@ Número de participantes: **40 pessoas**
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 🔹 Felipe Correia – Impacto Real da IA nos Projetos de Dados
 
-🔹 Hugo Venturini – Microsoft FABRIC de Ponta a Ponta: Caso Real INMET
-
-🔹 Marcio Nizzola & Carlos Machel – Multi Agentes e Workflows no Microsoft Agent framework
-
-🔹 Roberto Fonseca  – 
-
-🔹  – Entendendo o controle de concorrência via MVCC/MGA/Versioning
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ---
@@ -32,6 +25,12 @@ _# Produtividade no uso de Bancos de Dados com IAs: descomplicando tarefas do di
 Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)** e **Milton Camara Gomes (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
+
+_# Multi-Agentes e Workflows no Microsoft Agent Framework_
+
+Palestrante: **Carlos Machel (Microsoft MVP)** e **Marcio Nizzola (Microsoft MVP)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Agents de IA, Microsoft Agent Framework, Microsoft Foundry, C#, .NET, ASP.NET Core...**
 
 _# SQL Server 2025 para DBAs e Desenvolvedores_
 
@@ -46,11 +45,11 @@ Palestrante: **Hugo Venturini (Microsoft MVP)**
 Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence...**
 
 
-_# Microsoft Fabric de Ponta a Ponta - Caso Real com dados do INMET_
+_# Firebird - Entendendo o controle de concorrência via MVCC/MGA/Versioning_
 
 Palestrante: **Carlos H. Cantu (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence...**
+Tecnologias e tópicos abordados: **Firebird, Bancos de Dados Relacionais, Boas Práticas no uso de Bancos de Dados, Linux, Windows...**
 
 ---
 
