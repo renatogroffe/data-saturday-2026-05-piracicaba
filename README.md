@@ -18,9 +18,9 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 🔹 Marcio Nizzola & Carlos Machel – Multi Agentes e Workflows no Microsoft Agent framework
 
-🔹 Roberto Fonseca  – SQL Server 2025 para DBAs e Desenvolvedores
+🔹 Roberto Fonseca  – 
 
-🔹 Carlos H. Cantu – Entendendo o controle de concorrência via MVCC/MGA/Versioning
+🔹  – Entendendo o controle de concorrência via MVCC/MGA/Versioning
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ---
@@ -33,15 +33,22 @@ Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, 
 
 Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
 
-_# Desacoplando o Legado: Como modernizar sua arquitetura com o Azure SQL Change Event Streaming_
+_# SQL Server 2025 para DBAs e Desenvolvedores_
 
 Palestrante: **Roberto Fonseca (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Azure SQL, Event Streaming, SQL Server, .NET, C#, Microsoft Azure...**
+Tecnologias e tópicos abordados: **SQL Server, Azure SQL, Microsoft Azure, Windows, Linux, Inteligência Artificial...**
 
 _# Microsoft Fabric de Ponta a Ponta - Caso Real com dados do INMET_
 
 Palestrante: **Hugo Venturini (Microsoft MVP)**
+
+Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence...**
+
+
+_# Microsoft Fabric de Ponta a Ponta - Caso Real com dados do INMET_
+
+Palestrante: **Carlos H. Cantu (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence...**
 
