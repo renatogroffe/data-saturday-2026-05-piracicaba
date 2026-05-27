@@ -68,3 +68,18 @@ Deixamos aqui nossos agradecimentos ao [**Parque Tecnológico Piracicaba**](http
 ![Abertura](img/geral-03.jpeg)
 
 
+machel nizzola 2
+
+machel nizzola 9
+
+
+
+hugo 3
+
+hugo 4
+
+
+
+cantu 7
+
+cantu 17
