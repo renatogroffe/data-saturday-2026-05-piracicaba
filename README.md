@@ -65,10 +65,11 @@ Deixamos aqui nossos agradecimentos ao [**Parque Tecnológico Piracicaba**](http
 
 ![Banner Global Azure](img/banner-data-saturday-piracicaba.png)
 
+![Renato e Milton palestrando 1](img/renato-milton-01.jpeg)
 
-renato milton 1
+![Renato e Milton palestrando 2](img/renato-milton-13.jpeg)
 
-renato milton 13
+
 
 machel nizzola 2
 
