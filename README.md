@@ -11,15 +11,27 @@ Organizadores:
 
 Número de participantes: **40 pessoas**
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+🔹 Felipe Correia – Impacto Real da IA nos Projetos de Dados
+
+🔹 Hugo Venturini – Microsoft FABRIC de Ponta a Ponta: Caso Real INMET
+
+🔹 Marcio Nizzola & Carlos Machel – Multi Agentes e Workflows no Microsoft Agent framework
+
+🔹 Roberto Fonseca  – SQL Server 2025 para DBAs e Desenvolvedores
+
+🔹 Carlos H. Cantu – Entendendo o controle de concorrência via MVCC/MGA/Versioning
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 ---
 
 Apresentações que aconteceram durante o evento:
 
-_# Aplicações containerizadas no Azure: AKS ou Container Apps, qual a melhor solução?_
+_# Produtividade no uso de Bancos de Dados com IAs: descomplicando tarefas do dia a dia com MCP Servers_
 
 Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)** e **Milton Camara Gomes (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Kubernetes, Microsoft Azure, Azure Kubernetes Service, Azure Container Apps, Azure Container Registry, Docker, Docker Hub, Grafana, Azure Managed Grafana, Prometheus, Azure Monitor, Application Insights, Azure Log Analytcs, .NET 10, C#, ASP.NET Core, Linux, Cloud Native, CNCF, DevOps...**
+Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
 
 _# Desacoplando o Legado: Como modernizar sua arquitetura com o Azure SQL Change Event Streaming_
 
