@@ -63,7 +63,7 @@ Deixamos aqui nossos agradecimentos ao [**Parque Tecnológico Piracicaba**](http
 
 ---
 
-![Banner Global Azure](img/banner-global-azure.jpeg)
+![Banner Global Azure](img/banner-data-saturday-piracicaba.png)
 
 ![Abertura](img/geral-03.jpeg)
 
