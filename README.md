@@ -12,7 +12,7 @@ Organizadores:
 Número de participantes: **40 pessoas**
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-🔹 Felipe Correia – Impacto Real da IA nos Projetos de Dados
+🔹  – Impacto Real da IA nos Projetos de Dados
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -42,12 +42,17 @@ _# Microsoft Fabric de Ponta a Ponta - Caso Real com dados do INMET_
 
 Palestrante: **Hugo Venturini (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence...**
+Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence, Azure SQL...**
 
+_#Impacto Real da IA nos Projetos de Dados_
+
+Palestrante: **Felipe Correia (Head of Data & AI)**
+
+Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence, Azure SQL, Azure Data Factory...**
 
 _# Firebird - Entendendo o controle de concorrência via MVCC/MGA/Versioning_
 
-Palestrante: **Carlos H. Cantu (Microsoft MVP)**
+Palestrante: **Carlos H. Cantu (FireBase Brasil)**
 
 Tecnologias e tópicos abordados: **Firebird, Bancos de Dados Relacionais, Boas Práticas no uso de Bancos de Dados, Linux, Windows...**
 
