@@ -73,24 +73,17 @@ Deixamos aqui nossos agradecimentos ao [**Parque Tecnológico Piracicaba**](http
 
 ![Carlos e Marcio palestrando 2](img/carlos-marcio-09.jpeg)
 
-![Cantu palestrando 1](img/roberto-01.jpeg)
+![Roberto palestrando 1](img/roberto-01.jpeg)
 
-![Cantu palestrando 2](img/roberto-08.jpeg)
+![Roberto palestrando 2](img/roberto-08.jpeg)
 
+![Hugo palestrando 1](img/hugo-03.jpeg)
 
+![Hugo palestrando 2](img/hugo-04.jpeg)
 
+![Felipe palestrando 1](img/felipe-01.jpeg)
 
-
-hugo 3
-
-hugo 4
-
-felipe 1
-
-felipe 9
-
-
-
+![Felipe palestrando 2](img/felipe-09.jpeg)
 
 ![Cantu palestrando 1](img/cantu-07.jpeg)
 
